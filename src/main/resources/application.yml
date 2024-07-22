@@ -11,3 +11,4 @@ server:
   port: 8088
 
 #mongo-express default Auth is user is admin and password is pass
+
