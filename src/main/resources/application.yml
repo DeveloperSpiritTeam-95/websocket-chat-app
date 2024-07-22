@@ -1,0 +1,13 @@
+spring:
+  data:
+    mongodb:
+      username: prabha
+      password: prabha
+      host: localhost
+      port: 27019
+      database: chat_app
+      authentication-database: admin
+server:
+  port: 8088
+
+#mongo-express default Auth is user is admin and password is pass
