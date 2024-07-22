@@ -5,5 +5,6 @@ package org.websocket.user;
  */
 
 public enum Status {
-    ONLINE, OFFLINE
+    ONLINE, 
+    OFFLINE
 }
